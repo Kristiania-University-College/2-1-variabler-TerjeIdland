@@ -1,5 +1,5 @@
 //Her er variabelen "side" definert. Den har fått verdien 4.
-let side = 4;
+let side = 6;
 
 //Her definerer vi variabelen "arealAvKvadrat" og gir den verdi 
 //fra resultat av utregningen "side*side".
